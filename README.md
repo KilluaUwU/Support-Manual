@@ -27,3 +27,11 @@ Provide link to [guide](https://github.com/KilluaUwU/Disable-Hyper-V) and remind
 1. Ask them to set game to borderless screen mode
 2. If didn't help, ask what GPU does user have
 3. If it's NVIDIA 40/50 series, ask if they have smooth motion enabled in nvidia app
+
+## Hwid mismatch
+
+Means user need a hwid reset, should be handled by adwin
+
+## Pause key
+
+Uni keys can be paused through dashboard, remind user to check the terms of pause
