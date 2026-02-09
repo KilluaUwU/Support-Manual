@@ -30,6 +30,14 @@ Provide link to [guide](https://github.com/KilluaUwU/Disable-Hyper-V) and remind
 3. If it's NVIDIA 40/50 series, ask if they have smooth motion enabled in nvidia app
 4. Ask to disable if it's enabled
 
+## Failed to place required callback
+
+Usually caused by Exploit Protection/3rd party antivirus/Anticheat
+
+Ask user to turn these off/delete antivirus
+
+If it didn't help - "win + r - msconfig - services - tick hide Microsoft services - disable all - restart pc and try"
+
 ## Uni Endfield/Duet Night Abyss/Wuthering Waves
 
 1. Always first ask if user enabled dx11 in game launcher/used -dx11 on steam
