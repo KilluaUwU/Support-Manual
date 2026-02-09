@@ -14,6 +14,11 @@ Provide link to [guide](https://github.com/KilluaUwU/Disable-Hyper-V) and remind
 3. Ask to fix issues if launcher is not all green
 4. Antiviruses should be deleted, Anticheats - closed
 
+Screenshots you can use for example:
+
+<img width="1008" height="615" alt="msedge_BcxgDgMPWj" src="https://github.com/user-attachments/assets/54b0edb2-46bc-4f94-afc9-e1b07c49f901" /> <img width="1050" height="670" alt="launcher_uPz9vJmQDk" src="https://github.com/user-attachments/assets/84158be8-de30-4354-ab04-a3e9f40be764" />
+
+
 ## BSOD other uni games
 
 1. Ask launcher screenshots(Virtualization is not required for those)
