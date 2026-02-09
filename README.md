@@ -5,7 +5,7 @@
 ## VBS/Hyper-V doesn't turn off
 
 Provide link to [guide](https://github.com/KilluaUwU/Disable-Hyper-V) and remind to delete passwords
-> Turning off not required for games other than genshin, if you notice user trying to ask them to try without it
+> Turning off not required for games other than genshin
 
 ## BSOD GENSHIN
 
