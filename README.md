@@ -28,6 +28,11 @@ Provide link to [guide](https://github.com/KilluaUwU/Disable-Hyper-V) and remind
 2. If didn't help, ask what GPU does user have
 3. If it's NVIDIA 40/50 series, ask if they have smooth motion enabled in nvidia app
 
+## Uni Endfield/Duet Night Abyss/Wuthering Waves
+
+1. Always first ask if user enabled dx11 in game launcher/used -dx11 on steam
+2. If not, ask them to do
+
 ## Hwid mismatch
 
 Means user need a hwid reset, should be handled by adwin
