@@ -12,6 +12,7 @@ Provide link to [guide](https://github.com/KilluaUwU/Disable-Hyper-V) and remind
 1. Ask for screenshots of task manager and System tab from launcher
 2. Virtualization disabled - ask to turn it on from BIOS (Intel Virtualization Technology(VMX)/VT-x/VT-d for intel cpu, SVM mode/AMD-V for amd cpu)
 3. Ask to fix issues if launcher is not all green
+4. Antiviruses should be deleted, Anticheats - closed
 
 ## BSOD other uni games
 
