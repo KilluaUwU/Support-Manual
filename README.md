@@ -27,6 +27,7 @@ Provide link to [guide](https://github.com/KilluaUwU/Disable-Hyper-V) and remind
 1. Ask them to set game to borderless screen mode
 2. If didn't help, ask what GPU does user have
 3. If it's NVIDIA 40/50 series, ask if they have smooth motion enabled in nvidia app
+4. Ask to disable if it's enabled
 
 ## Uni Endfield/Duet Night Abyss/Wuthering Waves
 
